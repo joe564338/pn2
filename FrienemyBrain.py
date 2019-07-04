@@ -35,4 +35,4 @@ if __name__ == "__main__":
 	print("New synaptic weights after training")
 	print(neural_network.synaptic_weights)
 	print("considering new situation [1,0,0] -> ?:")
-	print(neural_network.think(array([1,0,0]))
+	print(neural_network.think(array([1,0,0])))
